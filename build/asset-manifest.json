@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1cbab5c6.css",
+    "main.js": "/static/js/main.df3d68b9.js",
+    "static/js/787.193bd85a.chunk.js": "/static/js/787.193bd85a.chunk.js",
+    "static/media/pixel7pro.png": "/static/media/pixel7pro.d401b1c62ee3ed4b6191.png",
+    "static/media/vivoLogo.png": "/static/media/vivoLogo.4e0383c323bf70074d6c.png",
+    "static/media/iphone.webp": "/static/media/iphone.b91d274193f3ec83844f.webp",
+    "static/media/upi.png": "/static/media/upi.8cfc6fa12a80d6a816cb.png",
+    "static/media/visa.png": "/static/media/visa.28ea7290b90ba459ac94.png",
+    "static/media/samsungoffer.jpg": "/static/media/samsungoffer.bb3102c6e7e86b69a7d1.jpg",
+    "static/media/oneplus11Img.jpg": "/static/media/oneplus11Img.ac143a8ff9e071c8cffc.jpg",
+    "static/media/mc.png": "/static/media/mc.5afdf21cc6fa61f1a14d.png",
+    "static/media/samsungLogo.png": "/static/media/samsungLogo.ed40af7537759c306fd8.png",
+    "static/media/s23UltraImg.avif": "/static/media/s23UltraImg.377c0051e3904a7062c3.avif",
+    "static/media/iphoneImg.jpeg": "/static/media/iphoneImg.79009d7ba0872cabd97d.jpeg",
+    "static/media/googleLogo.png": "/static/media/googleLogo.a4d4b07ccf4e87b2b8ec.png",
+    "static/media/s23-ultra.webp": "/static/media/s23-ultra.b42892d84cfea7b65c12.webp",
+    "static/media/appleLogo.png": "/static/media/appleLogo.49018f6de4cb20bb187f.png",
+    "static/media/pixel7PImg.webp": "/static/media/pixel7PImg.fd574367c8c79b0fbadc.webp",
+    "static/media/oneplusLogo.png": "/static/media/oneplusLogo.6a2a2cb3d94020ac9bb0.png",
+    "static/media/xiaomiLogo.png": "/static/media/xiaomiLogo.08f8558409482f046283.png",
+    "index.html": "/index.html",
+    "main.1cbab5c6.css.map": "/static/css/main.1cbab5c6.css.map",
+    "main.df3d68b9.js.map": "/static/js/main.df3d68b9.js.map",
+    "787.193bd85a.chunk.js.map": "/static/js/787.193bd85a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cbab5c6.css",
+    "static/js/main.df3d68b9.js"
+  ]
+}
